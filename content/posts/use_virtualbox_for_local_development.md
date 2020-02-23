@@ -1,5 +1,5 @@
 ---
-title: title
+title: ローカル開発環境にVirtualBoxを使用する 
 date: 2020-02-22T22:37:05+09:00
 draft: false
 tags: ["virtualbox", "debian"]
