@@ -23,3 +23,21 @@ name = "About"
 url = "/about/"
 identifier = "address-card"
 weight = 2
+
+[[menu.remote]]
+name = "Mail"
+url = "mailto:seijiro4751@gmail.com"
+identifier = "envelope"
+weight = 3
+
+[[menu.remote]]
+name = "Github"
+url = "https://github.com/ozw-sei"
+identifier = "github"
+weight = 4
+
+[[menu.remote]]
+name = "Subscribe"
+url = "/index.xml"
+identifier = "rss"
+weight = 5
