@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://ozw-sei.github.io/"
 languageCode = "ja"
 title = "日々のChengeLog"
 theme = "ananke"
