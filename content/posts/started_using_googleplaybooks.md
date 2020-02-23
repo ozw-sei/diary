@@ -3,6 +3,7 @@ title: 電子書籍の管理にGooglePlayBooksを使い始めた
 date: 2020-02-23T20:50:47+09:00
 draft: false
 category: ["diary"]
+tag: ["電子書籍"]
 ---
 
 電子書籍の管理に困っていた、具体的にはKindleで販売していない本だ。
@@ -12,6 +13,8 @@ category: ["diary"]
 元々はOneDriveに入れて管理してたんだけど、モバイルで読んだ時にどこまで読んだか履歴の管理ができなかったり、PDFを探すのが億劫で買うだけで積ん読が増える一方だった。
 
 GooglePlayBooksは自前の100MB以下のPDFをアップロードすることができて、モバイルでもブラウザでも開くことができる。
+
+https://play.google.com/books
 
 KindleのようにPC用のクライアントを必要としない所も評価が上がる（というか、Kindleより大分使いやすくないか？）
 
