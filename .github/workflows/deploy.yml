@@ -5,8 +5,6 @@ on:
     branches:
       - source
 
-publish_branch: master
-
 jobs:
   build-deploy:
     runs-on: ubuntu-18.04
@@ -28,3 +26,4 @@ jobs:
         with:
           personal_token: ${{ secrets.PERSONAL_TOKEN  }}
           publish_dir: ./public
+          publish_branch: master
