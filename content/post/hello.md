@@ -10,5 +10,3 @@ draft: false
 管理ページがおもすぎて使い物にならなかったので流行のHugoに移行しました。
 
 おまけでgithub-actionでsource ブランチにpushすると自動でpublishするようにしました。
-
-折角なので、これからEmacsのOrg-modeで書いたフォーマットをを変換するようにしようと思います。
