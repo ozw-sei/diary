@@ -17,4 +17,11 @@ yasnippetのスニッペット展開時に日付を一緒に挿入してほし�
 --- title: ${1:title} date: `(concat (format-time-string &amp;quot;%Y-%m-%dT%T&amp;quot;) ((lambda (x) (concat (substring x 0 3) &amp;quot;:&amp;quot; (substring x 3 5))) (format-time-string &amp;quot;%z&amp;quot;)))` draft: true --- $0 参考
 Embedded Emacs-lisp code</description></item><item><title>HelloHugo</title><link>https://ozw-sei.github.io/posts/hello/</link><pubDate>Sun, 23 Feb 2020 16:16:27 +0900</pubDate><guid>https://ozw-sei.github.io/posts/hello/</guid><description>こんにちは。Hugo はてなブログにログインするためにFirefoxのCookieの設定をいじるのがアホくさくなったのと、 管理ページがおもすぎて使い物にならなかったので流行のHugoに移行しました。
 おまけでgithub-actionでsource ブランチにpushすると自動でpublishするようにしました。
-参考記事(Thank you!) 公式 Getting-Startd GitHub Actions による GitHub Pages への自動デプロイ</description></item></channel></rss>
+参考記事(Thank you!) 公式 Getting-Startd GitHub Actions による GitHub Pages への自動デプロイ</description></item><item><title>title</title><link>https://ozw-sei.github.io/posts/use_virtualbox_for_local_development/</link><pubDate>Sat, 22 Feb 2020 22:37:05 +0900</pubDate><guid>https://ozw-sei.github.io/posts/use_virtualbox_for_local_development/</guid><description>経緯 DockerDesktop(Windows)、WSLとの戦いに敗れた. プロジェクト単位での仮想環境というより適当に使えるローカル開発環境が欲しかった。
+やったこと VirtualBoxのインストール Debian10(Buster)のイメージのＤＬ HostOnlyNetworkの設定 1の手順 https://www.virtualbox.org/wiki/Downloads
+2の手順 https://www.debian.org/distrib/
+3の手順 ホストＯＳ側でホストオンリーネットワークを設定.
+ゲストＯＳで下記の設定を追加
+&amp;quot;/etc/systemd/network/enp0s8.network&amp;quot; というファイルを作り，次のように記入する． [Match] enp0s8 [Network] Address=192.168.151.100 DNS=192.168.151.1 sudo service networkservice restart
+以上.
+以下の記事を参考にしました(Thank you!!)。 https://qiita.com/Yoshiki-Takahashi/items/7274dff15dbafee5b118</description></item></channel></rss>
