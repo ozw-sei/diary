@@ -1,4 +1,25 @@
 baseURL = "https://ozw-sei.github.io/"
 languageCode = "ja"
 title = "日々のChengeLog"
-theme = "ananke"
+theme = "contrast-hugo"
+googleAnalytics = "UA-54423559-4"
+copyright = "©{year}, All Rights Reserved"
+timeout = 10000
+
+[params]
+sidebar = true
+show_excerpts = false
+description = '完全に立ち往生したエンジニア'
+
+[menu]
+[[menu.main]]
+name = "Home"
+url = "/"
+identifier = "home"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "/about/"
+identifier = "address-card"
+weight = 2
