@@ -1,4 +1,3 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>日々のChengeLog</title><link>https://ozw-sei.github.io/</link><description>Recent content on 日々のChengeLog</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sun, 23 Feb 2020 16:16:27 +0900</lastBuildDate><atom:link href="https://ozw-sei.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>HelloHugo</title><link>https://ozw-sei.github.io/post/hello/</link><pubDate>Sun, 23 Feb 2020 16:16:27 +0900</pubDate><guid>https://ozw-sei.github.io/post/hello/</guid><description>こんにちは。Hugo
 はてなブログにログインするためにFirefoxのCookieの設定をいじるのがアホくさくなったのと、 管理ページがおもすぎて使い物にならなかったので流行のHugoに移行しました。
-おまけでgithub-actionでsource ブランチにpushすると自動でpublishするようにしました。
-折角なので、これからEmacsのOrg-modeで書いたフォーマットをを変換するようにしようと思います。</description></item></channel></rss>
+おまけでgithub-actionでsource ブランチにpushすると自動でpublishするようにしました。</description></item></channel></rss>
