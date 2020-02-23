@@ -5,7 +5,7 @@ from dataclasses import dataclass @dataclass class Person: name: str home_town: 
 yasnippetのスニッペット展開時に日付を一緒に挿入してほしかったのだけど、snippet中でelispの評価ができるのかがわからなかったのだけど、 ` で囲むとできるらしい。
 便利
 --- title: ${1:title} date: `(concat (format-time-string &amp;quot;%Y-%m-%dT%T&amp;quot;) ((lambda (x) (concat (substring x 0 3) &amp;quot;:&amp;quot; (substring x 3 5))) (format-time-string &amp;quot;%z&amp;quot;)))` draft: true --- $0 参考
-Embedded Emacs-lisp code</description></item><item><title>title</title><link>https://ozw-sei.github.io/posts/use_virtualbox_for_local_development/</link><pubDate>Sat, 22 Feb 2020 22:37:05 +0900</pubDate><guid>https://ozw-sei.github.io/posts/use_virtualbox_for_local_development/</guid><description>経緯 DockerDesktop(Windows)、WSLとの戦いに敗れた. プロジェクト単位での仮想環境というより適当に使えるローカル開発環境が欲しかった。
+Embedded Emacs-lisp code</description></item><item><title>ローカル開発環境にVirtualBoxを使用する</title><link>https://ozw-sei.github.io/posts/use_virtualbox_for_local_development/</link><pubDate>Sat, 22 Feb 2020 22:37:05 +0900</pubDate><guid>https://ozw-sei.github.io/posts/use_virtualbox_for_local_development/</guid><description>経緯 DockerDesktop(Windows)、WSLとの戦いに敗れた. プロジェクト単位での仮想環境というより適当に使えるローカル開発環境が欲しかった。
 やったこと VirtualBoxのインストール Debian10(Buster)のイメージのＤＬ HostOnlyNetworkの設定 1の手順 https://www.virtualbox.org/wiki/Downloads
 2の手順 https://www.debian.org/distrib/
 3の手順 ホストＯＳ側でホストオンリーネットワークを設定.
