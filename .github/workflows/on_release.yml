@@ -1,0 +1,21 @@
+name: "on-published"
+on:
+  release:
+    types: [published]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Slack Notification
+        uses: rtCamp/action-slack-notify@v2.0.0
+        env:
+          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+      # - uses: mugi111/tweet-trigger-release@v1.2
+      #   with:
+      #     consumer_key: ${{ secrets.CONSUMER_KEY }}
+      #     consumer_secret: ${{ secrets.CONSUMER_SECRET }}
+      #     access_token_key: ${{ secrets.ACCESS_TOKEN_KEY }}
+      #     access_token_secret: ${{ secrets.ACCESS_TOKEN_SECRET }}
+      #     tweet_body: "更新しました！"
