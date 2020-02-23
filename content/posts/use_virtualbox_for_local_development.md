@@ -1,7 +1,7 @@
 ---
 title: title
 date: 2020-02-22T22:37:05+09:00
-draft: true
+draft: false
 tags: ["virtualbox", "debian"]
 categories: ["til"]
 ---
