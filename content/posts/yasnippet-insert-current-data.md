@@ -2,6 +2,7 @@
 title: yasnippetのTemplateの中でElispの結果を使用したい
 date: 2020-02-23T19:07:31+09:00
 draft: false
+tags: [ "emacs", "yasnippet" ]
 ---
 
 Hugoのヘッダー情報の日付にiso8601でDateTimeを追加するものを書いてみた。

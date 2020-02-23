@@ -23,3 +23,8 @@ name = "About"
 url = "/about/"
 identifier = "address-card"
 weight = 2
+[[menu.main]]
+name = "Tags"
+url = "/tags/"
+identifier = "tag"
+weight = 2
