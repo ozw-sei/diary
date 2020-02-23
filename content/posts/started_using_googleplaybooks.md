@@ -2,7 +2,7 @@
 title: 電子書籍の管理にGooglePlayBooksを使い始めた
 date: 2020-02-23T20:50:47+09:00
 draft: false
-tag: ["diary"]
+category: ["diary"]
 ---
 
 電子書籍の管理に困っていた、具体的にはKindleで販売していない本だ。

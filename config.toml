@@ -19,12 +19,26 @@ identifier = "home"
 weight = 1
 
 [[menu.main]]
-name = "About"
-url = "/about/"
-identifier = "address-card"
+name = "TIL"
+url = "/categories/til"
+identifier = "book"
 weight = 2
+
+[[menu.main]]
+name = "diary"
+url = "/categories/diary"
+identifier = "calendar"
+weight = 3
+
 [[menu.main]]
 name = "Tags"
 url = "/tags/"
 identifier = "tag"
-weight = 2
+weight = 4
+
+
+[[menu.main]]
+name = "About"
+url = "/about/"
+identifier = "address-card"
+weight = 5
