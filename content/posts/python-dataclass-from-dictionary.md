@@ -2,7 +2,7 @@
 title: Pythonのデータクラスをdictionaryからデシリアライズする書き方
 date: 2020-02-23T22:06:17+09:00
 draft: false
-tag: ["python"]
+tags: ["python"]
 categories: ["til"]
 ---
 
