@@ -1,8 +1,7 @@
-
 ---
-
-title: TIL
-date: 2112-09-03T15:07:39+09:00
+title: About TIL
+date: 2099-02-24T15:07:39+09:00
+publishdate: 2020-02-24T15:07:39+09:00
 draft: false
 categories: ["til"]
 tags: []
@@ -15,3 +14,4 @@ tags: []
 Hugo みたくGithubで管理できるならば、検索も簡単なのでえいやで初めてしまった。
 
 同僚への説明資料とかが含まれるかもしれんけど、それはご愛嬌
+
