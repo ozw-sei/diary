@@ -14,9 +14,8 @@ https://play.google.com/books
 KindleのようにPC用のクライアントを必要としない所も評価が上がる（というか、Kindleより大分使いやすくないか？）
 運用して1週間経過したくらいだけど、自宅でも職場でもモバイルでもストレス無く本を読むことができて満足している。
 不満は強いて言えば文字検索ができないことくらい？（これは必要になったらPDF開いて検索すれば良いだろう）
-とりあえず、使い続けてみる。</description></item><item><title>title</title><link>https://ozw-sei.github.io/about/</link><pubDate>Sun, 23 Feb 2020 20:18:24 +0900</pubDate><guid>https://ozw-sei.github.io/about/</guid><description>自己紹介 後で書く
-seijiro4751@gmail.com
-Qiita Twitter Github</description></item><item><title>yasnippetのTemplateの中でElispの結果を使用したい</title><link>https://ozw-sei.github.io/posts/yasnippet-insert-current-data/</link><pubDate>Sun, 23 Feb 2020 19:07:31 +0900</pubDate><guid>https://ozw-sei.github.io/posts/yasnippet-insert-current-data/</guid><description>Hugoのヘッダー情報の日付にiso8601でDateTimeを追加するものを書いてみた。
+とりあえず、使い続けてみる。</description></item><item><title>自己紹介</title><link>https://ozw-sei.github.io/about/</link><pubDate>Sun, 23 Feb 2020 20:18:24 +0900</pubDate><guid>https://ozw-sei.github.io/about/</guid><description>1Rで鳥類を二羽飼育しているゲーマー、ソフトウェアエンジニア.
+関心 Productivity ゲーム ComputerVision 3DCG Unity BlockChain 好きな言語 Scala Python TypeScript Go C# お仕事 WebDevelopment GameDevelopment その他 seijiro4751@gmail.com Qiita Twitter Github</description></item><item><title>yasnippetのTemplateの中でElispの結果を使用したい</title><link>https://ozw-sei.github.io/posts/yasnippet-insert-current-data/</link><pubDate>Sun, 23 Feb 2020 19:07:31 +0900</pubDate><guid>https://ozw-sei.github.io/posts/yasnippet-insert-current-data/</guid><description>Hugoのヘッダー情報の日付にiso8601でDateTimeを追加するものを書いてみた。
 yasnippetのスニッペット展開時に日付を一緒に挿入してほしかったのだけど、snippet中でelispの評価ができるのかがわからなかったのだけど、 ` で囲むとできるらしい。
 便利
 --- title: ${1:title} date: `(concat (format-time-string &amp;quot;%Y-%m-%dT%T&amp;quot;) ((lambda (x) (concat (substring x 0 3) &amp;quot;:&amp;quot; (substring x 3 5))) (format-time-string &amp;quot;%z&amp;quot;)))` draft: true --- $0 参考
