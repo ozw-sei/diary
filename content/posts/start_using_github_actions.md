@@ -1,7 +1,7 @@
 ---
 title: GithubActions を使い始めた
 date: 2020-02-24T17:53:05+09:00
-draft: true
+draft: false
 categories: ['til']
 tags: ['github-actions', 'CI']
 ---
