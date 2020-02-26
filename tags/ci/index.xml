@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>CI on 日々のChengeLog</title><link>https://ozw-sei.github.io/tags/ci/</link><description>Recent content in CI on 日々のChengeLog</description><generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>©{year}, All Rights Reserved</copyright><lastBuildDate>Mon, 24 Feb 2020 17:53:05 +0900</lastBuildDate><atom:link href="https://ozw-sei.github.io/tags/ci/index.xml" rel="self" type="application/rss+xml"/><item><title>GithubActions を使い始めた</title><link>https://ozw-sei.github.io/posts/start_using_github_actions/</link><pubDate>Mon, 24 Feb 2020 17:53:05 +0900</pubDate><guid>https://ozw-sei.github.io/posts/start_using_github_actions/</guid><description>最近、仕事でGithubを使い始めた。
+使い始めて便利だったものや、今後使ってみたいものをメモしていく
+※ awsome みればいいじゃんって言われたら存在意義がなくなるので目をつむってくださいｗ
+言語に依存するものはいくらでもあるので今回はLint系に絞っていく.
+snow-actions/eclint@v1.0.1 これは何かと言うと EditorConfig に従っているかどうかをチェックする GithubAction. 例えば、チーム開発でWindowsとMacのメンバーが混在している状況では特に効果が高い.
+自分は自宅ではWindowsがメインで仕事ではMacが多いのでとても助かっている （普段使いのエディタならEditorConfig勝手に読み込んでくれるんだけど、コンフリクト解消時にVimとか使ってしまうと一気に改行文字が変わってしまう事故がある）
+git-hook でいいいじゃんと思う人もいると思うが、ローカルで設定が要らないのは大事
+WIP WIPのものがマージされる事故が発生したので導入した。 あってはならないがあったのだ。
+ReviewDog PRにコメントしてくれる犬。 マージ止めるほどじゃないけど、Lintエラーしてほしい物に対して使っている。
+人がやるとその人にヘイトがたまるので良くないが犬なら許してくれる（笑）
+ssh-agent まだ使ってないけど、他のPrivate Repository参照したいとき使う事になりそう。
+[assignee-to-reviewer-action] (https://github.com/pullreminders/assignee-to-reviewer-action) バイク小屋対策
+[lighthouse-action ] (https://github.com/jakejarvis/lighthouse-action) 実行するの忘れてるヤツを自動で動かしてくれる。文明の利器
+ちなみにCircleCIのようにローカルで動かしてくれるものは無いらしい。</description></item></channel></rss>
