@@ -3,7 +3,7 @@
 title: 買い物2020年2月
 date: 2020-03-10T00:10:37+09:00
 draft: false
-categories: []
+categories: ["diary"]
 tags: []
 ---
 
