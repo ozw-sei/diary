@@ -19,6 +19,7 @@ hugoにブログを乗り換えた. Emacsでかける喜び。
 仕事 PixiJS, WebGL(プレーン) Angular NodeJS(Express, Lambda) Python(Serverless) DynamoDB, PostgreSQL Solidityとか Emacs org-modeでメモ取り始めた. idoからcounselにスイッチした flyspell-correct (コレ。革命的ですねwww) restclient.el を使い始めた 新しく取り組んだ Amazon ECS ServerlessFramework GithubActions 次取り組みたいこと BlockChainゲーム作る 折角仕事で1年半Daapsを開発したので、今度はオリジナルのゲームを作りたい。 ライトなAutoChessのクローンでも作ろうかな！ 技術的には馴染みのあるPixiJSとか思ったんだけど、あえてUnityとLoomSDKで作るのもアリかと思ってきた。 実は少し手を動かして形にはなっているのだけど、どうせ二度目は早いし同じこと何度もやってもつまらないのでPlastmachainとUnityにしようかなー。 迷う。 VRとかも絡めやすそうで良いですね。 ブログの改善 スクショ貼ったほうが良いんだろうが、Hugoでやるのめんどくさくない？ 画像やAmazonやTwitterのリンクとか。 みんなどうやってるんだろう。。。
 あと、スマホで表示した時にテーマが見ずらい。。。(自分で改造した部分なんだが&amp;hellip;)</description></item><item><title>時間を浪費しすぎないために使っているツール</title><link>https://ozw-sei.github.io/posts/habit/</link><pubDate>Mon, 02 Mar 2020 00:10:00 +0900</pubDate><guid>https://ozw-sei.github.io/posts/habit/</guid><description>自分はとても怠惰な人間なので、誘惑があるとすぐに怠ける。 時間を浪費しすぎないために様々なツールで内なる獣に躾をしている。
 基本的にややりたくないことをやるハードルを上げて、やるべきことを行うハードルを下げることがミッション。
+つまり、無駄なネットサーフィン、無駄にスマホアプリを減らして、読書やプログラミングする時間を増やしたいｗ
 RescueTime 何より何に時間を使っているか把握するところから。 https://www.rescuetime.com/ 自分の場合はTwitterをだらだら見たりモバイルで必要以上にネットサーフィンをしている傾向があった。 そこまでわかって、じゃあどうやって防ぐねん。って話は次の段。 ちなみに原因がわかれば自分でなんとかできるってマッチョな人はこれだけでOKかと。
 これを週1回振り返りで細かい改善する。 大掛かりな見直しやツールの導入は月初のみに決めている（そうしないと気がついたらツールに時間を使われすぎてしまうので）。
 Freedom これはいわゆるWebサイトブロッカー. 特徴はVPNを介するので例えばTwitterを登録しておくと、TwitterアプリもSafariのTwitter,FirefoxのTwitterもアクセスできなくなる。 クロスプラットフォームで動作するし、Android版はアプリの起動もブロックすることができるのでかなり抑制力が強い。 自分はこれくらいしないと時間の浪費が改善しなかった。
