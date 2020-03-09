@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>日々のChengeLog</title><link>https://ozw-sei.github.io/</link><description>Recent content on 日々のChengeLog</description><generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>©{year}, All Rights Reserved</copyright><lastBuildDate>Tue, 24 Feb 2099 15:07:39 +0900</lastBuildDate><atom:link href="https://ozw-sei.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About TIL</title><link>https://ozw-sei.github.io/about_til/</link><pubDate>Tue, 24 Feb 2099 15:07:39 +0900</pubDate><guid>https://ozw-sei.github.io/about_til/</guid><description>元同僚が Githubのリポジトリ「TIL」を使って小さなアウトプットを習慣化する に影響を受けたのを真似し始めた。
 元々Evernoteとかでメモ取る習慣あったんだけど、はてなブログやQiita開くと他人の投稿に気が散ってしまうのでアウトプットにならず死蔵されていた。
 Hugo みたくGithubで管理できるならば、検索も簡単なのでえいやで初めてしまった。
-同僚への説明資料とかが含まれるかもしれんけど、それはご愛嬌</description></item><item><title>近況報告 2020年2月</title><link>https://ozw-sei.github.io/posts/recently_report_2020_02/</link><pubDate>Mon, 09 Mar 2020 23:34:42 +0900</pubDate><guid>https://ozw-sei.github.io/posts/recently_report_2020_02/</guid><description>今更だけど2月の近況報告
+同僚への説明資料とかが含まれるかもしれんけど、それはご愛嬌</description></item><item><title>買い物2020年2月</title><link>https://ozw-sei.github.io/posts/purchase_2020_02/</link><pubDate>Tue, 10 Mar 2020 00:10:37 +0900</pubDate><guid>https://ozw-sei.github.io/posts/purchase_2020_02/</guid><description>お買い物を記録することは比較的好きである。 どの本か忘れたけど、価値観の願望を最も表現する消費はお金の消費と言われていてなるほどと。 時間を消費するためには準備や強い意思が必要だけど、お金は持ってるものを消費するだけで良いので願望が現れやすい。
+論文とか読んだわけではないが体感的にはかなり納得感あり。
+Corsair HARPOON RGB WIRELESS ゲーミングマウス MS358 CH-9311011-AP
+元々かぶせ持ち用のマウスを使ってたのだけど、普段はつかみ持ちかつまみ持ちしてるので乗り換えた。 シンプルに疲れにくくなった。
+リアルタイムレンダリング
+鈍器。すぐ読めないけど、こういう本はすぐ絶版になるので買えるうちに買っておく。
+フロムヘル
+アラン・ムーア信者
+散髪 茶髪にしてみた。
+シュタインズゲート PC版。最後にやったのが360で2010年の2月頃だったと思う。 10年ぶりの再訪だったので胸焼けしそうな描写が幾つもあった。 まぁ、感想は他の人が散々書いてると思うので、「エルプサイ・コングルゥ」で締めますｗ （おでん缶とか10年前のネットスラングや懐かしのラジ館が出てきて胸焼けするような思いでした） しかし、ダルは2017年には結婚していて子供を生むんですね。。。（進捗ありません）
+明快3次元コンピュータープログラミング 昔買ったはずなんだけど、紛失したえので買い戻した。 困った時にいつもこの本に立ち返ってる気がする。
+ストレッチ 少ないリソースで思わぬ成果を出す方法 積んでる。すごく読みたい。 制約がある方が成果を出しやすいことは体感的にはわかっているんだけど、それを真面目に解説してくれてるっぽい。</description></item><item><title>近況報告 2020年2月</title><link>https://ozw-sei.github.io/posts/recently_report_2020_02/</link><pubDate>Mon, 09 Mar 2020 23:34:42 +0900</pubDate><guid>https://ozw-sei.github.io/posts/recently_report_2020_02/</guid><description>今更だけど2月の近況報告
 主なできごと Oculus Rift S がぶっ壊れた 開発用のおもちゃがぶっ壊れた。HalfLifeまでに新しいHMD買わないと&amp;hellip;
 hugoにブログを乗り換えた. Emacsでかける喜び。
 スタンディングデスク復帰した。 元々使ってたけど、無職期間中使わないでいたら習慣がSTOPしてしまった。
-仕事 PixiJS, WebGL(プレーン) Angular NodeJS(Express, Lambda) Python(Serverless) DynamoDB, PostgreSQL Solidityとか Emacs org-modeでメモ取り始めた. idoからcounselにスイッチした flyspell-correct (コレ。革命的ですねwww) restclient.el を使い始めた 新しく取り組んだ Amazon ECS ServerlessFramework GithubActions 次取り組みたいこと BlockChainゲーム作る 折角仕事で1年半Daapsを開発したので、今度はオリジナルのゲームを作りたい。 ライトなAutoChessのクローンでも作ろうかな！ 技術的には馴染みのあるPixiJSとか思ったんだけど、あえてUnityとLoomSDKで作るのもアリかと思ってきた。 実は少し手を動かして形にはなっているのだけど、どうせ二度目は早いし同じこと何度もやってもつまらないのでPlastmachainとUnityにしようかなー。 迷う。 VRとかも絡めやすそうで良いですね。 ブログの改善 スクショ貼ったほうが良いんだろうが、Hugoでやるのめんどくさくない？ 画像やAmazonやTwitterのリンクとか。 みんなどうやってるんだろう。。。</description></item><item><title>時間を浪費しすぎないために使っているツール</title><link>https://ozw-sei.github.io/posts/habit/</link><pubDate>Mon, 02 Mar 2020 00:10:00 +0900</pubDate><guid>https://ozw-sei.github.io/posts/habit/</guid><description>自分はとても怠惰な人間なので、誘惑があるとすぐに怠ける。 時間を浪費しすぎないために様々なツールで内なる獣に躾をしている。
+仕事 PixiJS, WebGL(プレーン) Angular NodeJS(Express, Lambda) Python(Serverless) DynamoDB, PostgreSQL Solidityとか Emacs org-modeでメモ取り始めた. idoからcounselにスイッチした flyspell-correct (コレ。革命的ですねwww) restclient.el を使い始めた 新しく取り組んだ Amazon ECS ServerlessFramework GithubActions 次取り組みたいこと BlockChainゲーム作る 折角仕事で1年半Daapsを開発したので、今度はオリジナルのゲームを作りたい。 ライトなAutoChessのクローンでも作ろうかな！ 技術的には馴染みのあるPixiJSとか思ったんだけど、あえてUnityとLoomSDKで作るのもアリかと思ってきた。 実は少し手を動かして形にはなっているのだけど、どうせ二度目は早いし同じこと何度もやってもつまらないのでPlastmachainとUnityにしようかなー。 迷う。 VRとかも絡めやすそうで良いですね。 ブログの改善 スクショ貼ったほうが良いんだろうが、Hugoでやるのめんどくさくない？ 画像やAmazonやTwitterのリンクとか。 みんなどうやってるんだろう。。。
+あと、スマホで表示した時にテーマが見ずらい。。。(自分で改造した部分なんだが&amp;hellip;)</description></item><item><title>時間を浪費しすぎないために使っているツール</title><link>https://ozw-sei.github.io/posts/habit/</link><pubDate>Mon, 02 Mar 2020 00:10:00 +0900</pubDate><guid>https://ozw-sei.github.io/posts/habit/</guid><description>自分はとても怠惰な人間なので、誘惑があるとすぐに怠ける。 時間を浪費しすぎないために様々なツールで内なる獣に躾をしている。
+基本的にややりたくないことをやるハードルを上げて、やるべきことを行うハードルを下げることがミッション。
 RescueTime 何より何に時間を使っているか把握するところから。 https://www.rescuetime.com/ 自分の場合はTwitterをだらだら見たりモバイルで必要以上にネットサーフィンをしている傾向があった。 そこまでわかって、じゃあどうやって防ぐねん。って話は次の段。 ちなみに原因がわかれば自分でなんとかできるってマッチョな人はこれだけでOKかと。
+これを週1回振り返りで細かい改善する。 大掛かりな見直しやツールの導入は月初のみに決めている（そうしないと気がついたらツールに時間を使われすぎてしまうので）。
 Freedom これはいわゆるWebサイトブロッカー. 特徴はVPNを介するので例えばTwitterを登録しておくと、TwitterアプリもSafariのTwitter,FirefoxのTwitterもアクセスできなくなる。 クロスプラットフォームで動作するし、Android版はアプリの起動もブロックすることができるのでかなり抑制力が強い。 自分はこれくらいしないと時間の浪費が改善しなかった。
 その他 スマホの充電器をトイレに設置する。 電源があって、一番長時間滞在しずらく頻繁にアクセスしない場所がここだった。 衛生面は氣になるので他に良い場所があったら教えてくれ。
-Outliner じゃあ、時間を節約した分何をするかって話になると思いますが、自分の場合は書籍を読む、Udemyのコンテンツを消化する、プログラムを書く、ペットと戯れる、週末はゲームを遊ぶ。 これらの行動を物理的に実行可能な作業で区切って管理していく。 ちなみに明らかに家のPCで行う作業や新しくなにか考える時はEmacsのOrg-modeで管理（少し前まではDropboxPaper）。 他の作業（日常的な雑多な作業）はTodoistで管理してる。 いわゆるGTDのプロジェクトはアウトライナーでタスクがTodoistみたいな？
+やるべきことをやるために Outliner じゃあ、時間を節約した分何をするかって話になると思いますが、自分の場合は書籍を読む、Udemyのコンテンツを消化する、プログラムを書く、ペットと戯れる、週末はゲームを遊ぶ。 これらの行動を物理的に実行可能な作業で区切って管理していく。 ちなみに明らかに家のPCで行う作業や新しくなにか考える時はEmacsのOrg-modeで管理（少し前まではDropboxPaper）。 他の作業（日常的な雑多な作業）はTodoistで管理してる。 いわゆるGTDのプロジェクトはアウトライナーでタスクがTodoistみたいな？
+Google PlayBooks 最近導入した。 元々Kindleで電子書籍を読んでいたのだけど、kindleのクライアントのDLが遅いし起動するのが面倒臭いのでブラウザで動くGooglePlayBooksに乗り換えた（スマホでも動くし）。 RescueTimeを見ると明らかに電子書籍を読んでいる時間が増えた。 やるべき行動を取るまでのハードルを下げることの威力を感じている。
 PomodoroTimer 適当なタイマーでタスクがポモドーロ幾つで完了したかを記帳していく。 日々、こなせるポモドーロが増えてポイントやベロシティが上がっていくのが楽しい。
+Google カレンダー 当たり前だけどあえて。 シンプルで視覚化しやすいのでなんだかんだ最強かも。
 スタンディングデスク 椅子はストレスがなさすぎて眠くなる。 1時間半くらいは立って作業できる。 かなり手応えを感じるし腰の悩みが減った。</description></item><item><title>Oculus Rift S が買えなくなってる</title><link>https://ozw-sei.github.io/posts/purchase_oculus_rift_s/</link><pubDate>Wed, 26 Feb 2020 23:49:28 +0900</pubDate><guid>https://ozw-sei.github.io/posts/purchase_oculus_rift_s/</guid><description>気がついたのは日曜日だけど、公式　からOculus Rift Sが購入できなくなった。
 丁度、DisplayPortの調子が悪いので買い換えようと思ったらKONOZAMAだった。
 コロナウイルスの影響だろうか。</description></item><item><title>GithubActions を使い始めた</title><link>https://ozw-sei.github.io/posts/start_using_github_actions/</link><pubDate>Mon, 24 Feb 2020 17:53:05 +0900</pubDate><guid>https://ozw-sei.github.io/posts/start_using_github_actions/</guid><description>最近、仕事でGithubを使い始めた。
