@@ -1,6 +1,6 @@
 baseURL = "https://ozw-sei.github.io/"
 languageCode = "ja"
-title = "日々のChengeLog"
+title = "日々のChangeLog"
 theme = "contrast-hugo"
 googleAnalytics = "UA-54423559-4"
 copyright = "©{year}, All Rights Reserved"
