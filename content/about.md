@@ -5,6 +5,8 @@ date: 2020-02-23T20:18:24+09:00
 
 1Rで鳥類を二羽飼育しているゲーマー、ソフトウェアエンジニア.
 
+![thumbnail](images/profile.jpg)
+
 ## 関心
 - Productivity
 - ゲーム
