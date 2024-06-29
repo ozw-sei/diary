@@ -1,6 +1,6 @@
 ---
 title: 自己紹介
-date: 2020-02-23T20:18:24+09:00
+date: 2024-06-29T20:18:24+09:00
 ---
 
 1Rで鳥類を二羽飼育しているゲーマー、ソフトウェアエンジニア.
@@ -8,15 +8,12 @@ date: 2020-02-23T20:18:24+09:00
 ![thumbnail](/images/profile.jpg)
 
 ## 関心
-- Productivity
-- ゲーム
-- ComputerVision
+- ゲーム開発（Unity, UnrealEngine5）
+- 画像処理
 - 3DCG
-- Unity
-- BlockChain
+- gcp, grpc
 
 ## 好きな言語
-- Scala
 - Python
 - TypeScript
 - Go
@@ -26,8 +23,7 @@ date: 2020-02-23T20:18:24+09:00
 - WebDevelopment
 - GameDevelopment
 
-## その他
+## 連絡先
 - seijiro4751@gmail.com
-- [Qiita](https://qiita.com/ozw_sei)
 - [Twitter](https://twitter.com/ozw_sei)
 - [Github](https://github.com/ozw-sei/)
